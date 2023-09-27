@@ -3,5 +3,6 @@
   "extends": [
     "config:recommended"
   ],
-  "separateMultipleMinor": true
+  "separateMultipleMinor": true,
+  "separateMinorPatch": true
 }
